@@ -9,3 +9,8 @@
 * Rate limiting
 * Locking accounts
 * Testing (probably Jest)
+
+
+
+Ben Awad Youtube Series: 
+https://www.youtube.com/watch?v=3P8cDjHsOCA
