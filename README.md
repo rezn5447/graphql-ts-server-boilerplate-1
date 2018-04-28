@@ -9,3 +9,7 @@
 * Rate limiting
 * Locking accounts
 * Testing (probably Jest)
+
+
+
+https://www.youtube.com/watch?v=3P8cDjHsOCA
